@@ -1,3 +1,4 @@
+#JHON BAYRON PEREZ 
 #   instalar pip3 :
 #          - sudo apt-get update
 #          - sudo apt-get install python3-pip

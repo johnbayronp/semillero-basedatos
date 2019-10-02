@@ -1,8 +1,8 @@
 # semillero-basedatos
 Primer paso de como subir datos a una base de datos en real time. mediante sensores y raspberry pi 3
 
-Instalar librerias a usar
-__instalar pip3 :
+# Instalar librerias a usar
+__instalar pip3__ :
           - sudo apt-get update
           - sudo apt-get install python3-pip
           - sudo python3 -m pip install --upgrade pip setuptools wheel

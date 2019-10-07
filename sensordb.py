@@ -30,8 +30,8 @@ GPIO.setwarnings(False)
 # Creamos una variable para guardar la extension de la libreria adafruit
 sensor = Adafruit_DHT.DHT11
 
-# conectar al pin P8_11 de la raspberry pi.
-pin = 4
+# Conexion al pin 8-GPIO14.
+pin = 14
 
 #Creamos la base de datos y pasamos el link de donde esta alojada (este caso FIREBASE )
 url = 'https://nombre_proyecto.firebaseio.com/'
